@@ -1,11 +1,15 @@
 <!--Banner-->
-<p align="center">
-  <img src="./banner.png" alt="Aditya Wakharakar Banner" style="width: 100%; max-width: 100%;">
-</p>
+![Aditya Wakharakar Banner Image](./banner.png)
+
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴀᴅɪᴛʏᴀ ᴡᴀᴋʜᴀʀᴀᴋᴀʀ! 
-*Founder of AstraGPT | AI & LLM Developer* 
+*Founder of AstraGPT | AI & LLM Developer*
+<br /> 
 
 <!--Start Intro-->               
 <p align="left">I am an AI Developer and LLM Enthusiast passionate about building next-generation intelligent systems, fine-tuning Large Language Models, and creating powerful AI assistants for real-world applications 🤖🔥</p>
@@ -25,8 +29,14 @@
 
 ---
 
-<!--Tech Stack Section-->       
-<h2 align="center">🛠️ Tᴇᴄʜ Sᴛᴀᴄᴋ & Sᴋɪʟʟs</h2>
+<!--Languages and Tools Section-->       
+<h2 align="center">🛠️ Tᴇᴄʜ Sᴛᴀᴄᴋ & Sᴋɪʟʟs</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br />
 
 <h3 align="left">🚀 Core Technologies</h3>
 <ul align="left">
@@ -53,8 +63,12 @@
   <li><a href="#">🎯 AI-Powered Recommendation System in Python</a></li>
   <li><a href="#">🗣️ AI Voice Assistant with NLP Capabilities</a></li>
 </ul>
+<br />
+<br />
+<br />
+<br />
 
----   
+<!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
   <a href="https://github.com/codewith-aditya">
@@ -137,11 +151,11 @@
 <img src="./gmail.png" width=50 height=50 alt="Email" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://x.com/Drskelton12" target="_blank">
+<a href="https://x.com/aditya_dev" target="_blank">
 <img src="./twitter.png" width=50 height=50 alt="Twitter" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/hackvist404" target="_blank">
+<a href="https://www.instagram.com/aditya_wakharakar" target="_blank">
 <img src="./instagram.png" width=50 height=50 alt="Instagram" style="margin-bottom: 5px;" />
 </a>
 
