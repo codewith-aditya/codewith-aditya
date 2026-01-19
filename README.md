@@ -1,6 +1,6 @@
 <!--Banner-->
 <p align="center">
-  <img src="./banner.png" alt="Aditya Wakharakar Banner" style="width: 100%; max-width: 100%;">
+  <img src="./banner2.png" alt="Aditya Wakharakar Banner" style="width: 100%; max-width: 100%;">
 </p>
 
 <!--Header Name-->
