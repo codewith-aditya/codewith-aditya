@@ -137,11 +137,11 @@
 <img src="./gmail.png" width=50 height=50 alt="Email" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://x.com/aditya_dev" target="_blank">
+<a href="https://x.com/Drskelton12" target="_blank">
 <img src="./twitter.png" width=50 height=50 alt="Twitter" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/aditya_wakharakar" target="_blank">
+<a href="https://www.instagram.com/hackvist404" target="_blank">
 <img src="./instagram.png" width=50 height=50 alt="Instagram" style="margin-bottom: 5px;" />
 </a>
 
