@@ -1,14 +1,11 @@
 <!--Banner-->
-![Aditya Wakharakar Banner Image](./banner.png)
-<!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
+<p align="center">
+  <img src="./banner.png" alt="Aditya Wakharakar Banner" style="width: 100%; max-width: 100%;">
+</p>
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴀᴅɪᴛʏᴀ ᴡᴀᴋʜᴀʀᴀᴋᴀʀ! 
-*Founder of AstraGPT | AI & LLM Developer*
-<br /> 
+*Founder of AstraGPT | AI & LLM Developer* 
 
 <!--Start Intro-->               
 <p align="left">I am an AI Developer and LLM Enthusiast passionate about building next-generation intelligent systems, fine-tuning Large Language Models, and creating powerful AI assistants for real-world applications 🤖🔥</p>
@@ -28,14 +25,8 @@
 
 ---
 
-<!--Languages and Tools Section-->       
-<h2 align="center">🛠️ Tᴇᴄʜ Sᴛᴀᴄᴋ & Sᴋɪʟʟs</h2> 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
-<br />
+<!--Tech Stack Section-->       
+<h2 align="center">🛠️ Tᴇᴄʜ Sᴛᴀᴄᴋ & Sᴋɪʟʟs</h2>
 
 <h3 align="left">🚀 Core Technologies</h3>
 <ul align="left">
@@ -62,12 +53,8 @@
   <li><a href="#">🎯 AI-Powered Recommendation System in Python</a></li>
   <li><a href="#">🗣️ AI Voice Assistant with NLP Capabilities</a></li>
 </ul>
-<br />
-<br />
-<br />
-<br />
 
-<!--Trophies Section-->   
+---   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
   <a href="https://github.com/codewith-aditya">
