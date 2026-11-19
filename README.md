@@ -147,15 +147,15 @@
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
   
-<a href="mailto:aditya@example.com" target="_blank">
+<a href="mailto:adityawakharkar99@gmail.com" target="_blank">
 <img src="./gmail.png" width=50 height=50 alt="Email" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://x.com/aditya_dev" target="_blank">
+<a href="https://x.com/Drskelton12" target="_blank">
 <img src="./twitter.png" width=50 height=50 alt="Twitter" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/aditya_wakharakar" target="_blank">
+<a href="https://www.instagram.com/codeby_aditya" target="_blank">
 <img src="./instagram.png" width=50 height=50 alt="Instagram" style="margin-bottom: 5px;" />
 </a>
 
@@ -163,8 +163,12 @@
 <img src="./github.png" width=50 height=50 alt="GitHub" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/aditya-wakharakar/" target="_blank">
+<a href="https://www.linkedin.com/in/aditya-wakharkar-29ab10321/" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="LinkedIn" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://huggingface.co/adityawakharkar" target="_blank">
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width=50 height=50 alt="Hugging Face" style="margin-bottom: 5px;" />
 </a>
 
 <!-- Dev.to hidden: dev.to/codewith_aditya returns 404; restore this block once the account exists.
