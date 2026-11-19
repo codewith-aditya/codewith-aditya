@@ -98,7 +98,7 @@
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/codewith-aditya">
-          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=codewith-aditya&theme=radical&background=0,0d1117,1a0b2e&fire=FF6B6B&ring=00F7FF&sideNums=ffffff&sideLabels=ffffff&dates=00F7FF&currStreakNum=ffffff" alt="Streak Stats" />
+          <img align="center" src="https://streak-stats.demolab.com/?user=codewith-aditya&theme=radical&background=0,0d1117,1a0b2e&fire=FF6B6B&ring=00F7FF&sideNums=ffffff&sideLabels=ffffff&dates=00F7FF&currStreakNum=ffffff" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -107,8 +107,8 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/codewith-aditya/astragpt">
-          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=codewith-aditya&repo=astragpt&theme=radical&show_owner=true&bg_color=0,0d1117,1a0b2e&title_color=00F7FF&text_color=ffffff" alt="AstraGPT" />
+        <a href="https://github.com/codewith-aditya/AstraGPT-7B">
+          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=codewith-aditya&repo=AstraGPT-7B&theme=radical&show_owner=true&bg_color=0,0d1117,1a0b2e&title_color=00F7FF&text_color=ffffff" alt="AstraGPT" />
         </a>
       </p>
     </td>
@@ -167,16 +167,19 @@
 <img src="./linkedin.png" width=50 height=50 alt="LinkedIn" style="margin-bottom: 5px;" />
 </a>
 
+<!-- Dev.to hidden: dev.to/codewith_aditya returns 404; restore this block once the account exists.
 <a href="https://dev.to/codewith_aditya" target="_blank">
 <img src="./dev_to.png" width=50 height=50 alt="Dev.to" style="margin-bottom: 5px;" />
 </a>
+-->
 </div>
 <br/>
 
-<!--Buy me a coffee-->
+<!-- Buy Me a Coffee hidden: the page returns 404. Restore this block once the account is live.
 <div align="center">
 <a href="https://www.buymeacoffee.com/adityawakharakar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
 </div>
+-->
 
 ---
 
